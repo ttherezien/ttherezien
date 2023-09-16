@@ -2,8 +2,7 @@
 J'adore le café, et cuisiner aussi (même si mes amis trouvent cela expérimental)
 
 # Projets informatiques 
-    /!\ Les différents projets n'ont pas encore migré sur cet utilisateur,
-     merci de me croire sur parole 😅
+
 ### 2023-2024 (en cours)
 - Création d'une application web Full-Stack de gestion d’une manifestation (forum des associations par exemple)
 
