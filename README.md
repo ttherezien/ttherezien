@@ -4,7 +4,7 @@ J'adore le café, et cuisiner aussi (même si mes amis trouvent cela expériment
 # Projets informatiques 
 
 ### 2023-2024 (en cours)
-- Création d'une application web Full-Stack de gestion d’une manifestation (forum des associations par exemple)
+- Création d'une application web Full-Stack de gestion d’une manifestation (forum de la réalité virtuel)
 
 - Création d’une application de gestion Bancaire personnelle 
 
