@@ -3,22 +3,42 @@ J'adore le café, et cuisiner aussi (même si mes amis trouvent cela expériment
 
 # Projets informatiques 
 
-### 2023-2024 (en cours)
+### 2023-2024 (en cours) 
 - Création d'une application web Full-Stack de gestion d’une manifestation (forum de la réalité virtuel)
 
-- Création d’une application de gestion Bancaire personnelle 
+  | équipe de 4 |
+
+- Création d’une application de gestion Bancaire personnelle
+  
+  | projet solo |
 
 ### 2022-2023
 - Création d'un site web de présentation d'une entreprise
-- Création d'une base de Données ainsi qu'un site web de gestion de cette dernière pour une entreprise de gestion des déchets 
+
+  | équipe de 4 |
+- Création d'une base de Données ainsi qu'un site web de gestion de cette dernièrepour une entreprise de gestion des déchets
+
+  | équipe de 4 |
 - Développement d'un jeu de société ainsi qu'une intelligence de jeu.
+
+  | Projet solo |
 - Mise en place des tests unitaires d'un jeu en Java, gestion d'une équipe
+
+  | équipe de 5 |
 
 ### 2021
 - Création d'un device permettant de récupérer sa position GPS ainsi que de la partager via le réseau LoRaWAN
 
+  | projet solo |
+
 ### 2020
 - Création d'un site vitrine et d'ecommerce pour une boutique (WordPress + Elementor)
+
+  | projet solo |
+
+
+# Amélioration en Cours
+- J'essaye à l'heure actuelle de m'améliorer en JavaScript avec les environnements Node.js et Vue.js, je suis ouvert à toute aide d'ailleurs 🤩
 
 # Languages et informatiques utilisée
 
