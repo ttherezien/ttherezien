@@ -19,7 +19,7 @@ J'adore le café, et cuisiner aussi (même si mes amis trouvent cela expériment
 - 📊 Création d'une base de Données ainsi qu'un site web de gestion de cette dernièrepour une entreprise de gestion des déchets
 
   | équipe de 4 |
-- 🎲 Développement d'un jeu de société ainsi qu'une intelligence de jeu.
+- 🎲 Développement d'un jeu de société ainsi qu'une intelligence de jeu. StuckWin-Game
 
   | Projet solo |
 - 🧪 Mise en place des tests unitaires d'un jeu en Java, gestion d'une équipe
