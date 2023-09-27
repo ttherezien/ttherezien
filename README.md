@@ -11,21 +11,44 @@ J'adore le café, et cuisiner aussi (même si mes amis trouvent cela expériment
 - 💼 Création d’une application de gestion Bancaire personnelle
   
   | projet solo |
+```mermaid
+  gantt
+    title Mes Projets
+    dateFormat  YYYY-MM-DD
+    section 2023-2024
+    ARvolution         :crit,ARvolution , 2023-09, 10M
+    BankPoject         :active,BankPoject,2023-08, 12M
+```
+
 
 ### 2022-2023
 - 🏢 Création d'un site web de présentation d'une entreprise
 
   | équipe de 4 |
-- 📊 Création d'une base de Données ainsi qu'un site web de gestion de cette dernièrepour une entreprise de gestion des déchets
+- 📊 Création d'une base de Données ainsi qu'un site web de gestion de cette dernière pour une entreprise de gestion des déchets
 
   | équipe de 4 |
 - 🎲 StuckWin-Game : développement d'un jeu de société ainsi qu'une intelligence de jeu. 
 
   | Projet solo |
+- 🛒 Création d'un site web e-commerce de vente de meuble en full-stack
+
+  | équipe de 4 |
+  
 - 🧪 Mise en place des tests unitaires d'un jeu en Java, gestion d'une équipe
 
   | équipe de 5 |
-
+```mermaid
+  gantt
+    title Mes projets 
+    dateFormat  YYYY-MM-DD
+    section 2022-2021
+    Helyad Web Site (HTML + CSS)        : done , HWS , 2022-09, 75d
+    BDD et site web (HTML + CSS)        : active,BDD,2022-010-15, 75d
+    StuckWin (Java)                     : crit, done,StuckWin,after HWS,75d
+    Site de e-commerce (HTML+CSS, Flask): active,after BDD, 3M
+    Quorridor en Java : 2023-02,5M
+```
 ### 2021
 - 🛰️ Création d'un device permettant de récupérer sa position GPS ainsi que de la partager via le réseau LoRaWAN
 
